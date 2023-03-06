@@ -1,7 +1,7 @@
 ### Olá :metal:
 
-🔭 Atualmente trabalho com software de emissão de cupom fiscal (CF-e SAT) e nota fiscal eletrônica (NF-e), focado em clientes do Simples Nacional.
-🌱 Cursando 3º Semestre Engenharia de Software na Faculade AMPLI
+- 🔭 Atualmente trabalho com software de emissão de cupom fiscal (CF-e SAT) e nota fiscal eletrônica (NF-e).
+- 🌱 Cursando 3º Semestre Engenharia de Software na Faculade AMPLI.
 <!--
 **fcpmike/fcpmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
