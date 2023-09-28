@@ -1,7 +1,7 @@
 ### Olá :metal:
 
 - 🔭 **Atualmente trabalho com**: Desenvolvimento de Software para emissão de cupom fiscal (CF-e SAT) e nota fiscal eletrônica (NF-e).
-- 🌱 **Estudando:** Engenharia de Software na Faculade AMPLI, 3º Semestre.
+- 🌱 **Estudando:** Engenharia de Software na Faculade AMPLI, 4º Semestre.
 
 
 <h3 align="left">Contato:</h3>
